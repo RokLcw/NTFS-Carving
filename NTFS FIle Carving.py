@@ -1,4 +1,3 @@
-# mft의 $mft 도 데이터 카빙
 import sys
 import os
 import time
